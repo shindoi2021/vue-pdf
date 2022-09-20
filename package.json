@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shindoi2021/vue-pdf"
+    "url": "git+https://github.com/shindoi2021/vue-pdf-shindoi"
   },
   "keywords": [
     "vue.js",
@@ -16,9 +16,9 @@
   "author": "DOUI Shinichi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shindoi2021/vue-pdf/issues"
+    "url": "https://github.com/shindoi2021/vue-pdf-shindoi/issues"
   },
-  "homepage": "https://github.com/shindoi2021/vue-pdf",
+  "homepage": "https://github.com/shindoi2021/vue-pdf-shindoi/",
   "dependencies": {
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "loader-utils": "^1.4.0",
